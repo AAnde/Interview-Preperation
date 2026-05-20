@@ -1,0 +1,7 @@
+Highlevel programming language
+Lowlevel programming language
+Compiler - Pros and Cons
+Interpreter - Pros and Cons
+Is Javascript compiled or interpreted?
+JIT Compiler
+Javascript code execution process by JS engine interpreter
