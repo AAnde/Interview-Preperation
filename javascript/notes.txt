@@ -5,3 +5,9 @@ Interpreter - Pros and Cons
 Is Javascript compiled or interpreted?
 JIT Compiler
 Javascript code execution process by JS engine interpreter
+================25/05/2026 - START====================
+JS is dynamic typed language, what is dynamic & static typed?
+What is Single thread & Multi thread?
+Why Javascript is single threaded?
+What is Race condition & Thread Synchronization?
+================25/05/2026 - END======================
