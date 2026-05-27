@@ -5,9 +5,16 @@ Interpreter - Pros and Cons
 Is Javascript compiled or interpreted?
 JIT Compiler
 Javascript code execution process by JS engine interpreter
-================25/05/2026 - START====================
+================25/05/2026====================
 JS is dynamic typed language, what is dynamic & static typed?
 What is Single thread & Multi thread?
 Why Javascript is single threaded?
 What is Race condition & Thread Synchronization?
-================25/05/2026 - END======================
+================27/05/2026======================
+Datatypes in Javascript
+Diff between Undefined and Null
+Why functions are called as callable objects?
+Diff between Function and object
+Why typeof class is function?
+Diff between class and function
+Why we need class and object as functions can do all?
