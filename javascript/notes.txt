@@ -29,4 +29,7 @@ passing reference datatype to function
 What is program, process and thread?
 What is single thread? advantages? disadvantages?
 What is multple threads? advantages? disadvantages?
-What actually thread contains?
+CPU core vs Thread
+context switching
+What is concurrency?
+What is parallelism?
