@@ -25,3 +25,8 @@ Stack and Heap
 mutable vs immutable
 passing primitive datatype to function
 passing reference datatype to function
+================05/06/2026===================================
+What is program, process and thread?
+What is single thread? advantages? disadvantages?
+What is multple threads? advantages? disadvantages?
+What actually thread contains?
